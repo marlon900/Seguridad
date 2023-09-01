@@ -5,21 +5,21 @@ El objetivo de este nivel es que inicies sesión en el juego usando SSH. El host
 
 ## Datos de acceso al nivel
 ```
-Server : bandit.labs.overthewire.org
-User : 
+Server   : bandit.labs.overthewire.org
+User     : bandit0
+Password : bandit0
 ```
 ## Solución
-``` ssh
+``` bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
-password: bandit0
 ```
 
 ## Notas adicionales
 | Comando | Descripción |
 |---------|----------|
-|pwd | me indica el directorio actual |
+| pwd | me indica el directorio actual |
 | whoami | saber el usuario actual |
 | cd/ | me lleva al directorio raiz |
-| | |
+| ls | lista los archivos en la carpeta actual |
 
 ## Referencias
