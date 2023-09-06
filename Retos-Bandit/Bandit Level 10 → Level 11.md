@@ -4,7 +4,7 @@
 La contraseña para el siguiente nivel se almacena en los datos del data.txt, que contiene datos codificados en base64
 
 ## Datos de acceso al nivel
-```
+``` bash
 ssh bandit10@bandit.labs.overthewire.org -p 2220
 bandit10
 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
