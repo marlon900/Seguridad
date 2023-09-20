@@ -1,7 +1,9 @@
 # Bandit Level 27 → Level 28
 
 ## Objetivo de nivel
+Hay un repositorio git en via the port . La contraseña para el usuario es la misma que para el usuario.`ssh://bandit27-git@localhost/home/bandit27-git/repo``2220``bandit27-git``bandit27`
 
+Clone el repositorio y encuentre la contraseña para el siguiente nivel.
 
 ## Datos de acceso al nivel
 ``` bash

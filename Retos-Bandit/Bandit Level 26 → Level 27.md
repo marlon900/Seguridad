@@ -1,7 +1,7 @@
 # Bandit Level 26 → Level 27
 
 ## Objetivo de nivel
-
+¡Buen trabajo consiguiendo un shell! ¡Ahora date prisa y toma la contraseña de bandit27!
 
 ## Datos de acceso al nivel
 ``` bash
