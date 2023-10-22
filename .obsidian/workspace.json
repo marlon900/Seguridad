@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "4d27d426e4dccf1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee585d08cdda5218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7ff13144a4ec78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Retos Forensic/Parte_3/4.- WebNet0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46043e4627abe847",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f43a27f81448ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a025d780b22b184c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aae062a3d3005f0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0446cc2a53f58ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3241183ebffadbec",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e330630cfe1c040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024144bf307aa81e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PicoCTF/Retos Forensic/Parte_3/4.- WebNet0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e37a0c9627d73522",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PicoCTF/Retos Forensic/Parte_3/4.- WebNet0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40d56cdecfc244aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7f90b2b588f4e38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PicoCTF/Retos Forensic/Parte_3/4.- WebNet0.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2f7ff13144a4ec78",
+  "lastOpenFiles": [
+    "PicoCTF/Retos Forensic/Parte_3/5.- WebNet1.md",
+    "PicoCTF/Retos Forensic/Parte_3/3.- MacroHard WeakEdge.md",
+    "PicoCTF/Retos Forensic/Parte_3/4.- WebNet0.md",
+    "PicoCTF/Retos Forensic/Parte_3/2.- tunn31 v1s10n.md",
+    "PicoCTF/Retos Forensic/Parte_1/2.- Extensions.md",
+    "PicoCTF/Retos Forensic/Parte_3/1.- Matryoshka doll.md"
+  ]
+}
